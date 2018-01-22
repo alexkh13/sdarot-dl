@@ -1,0 +1,21 @@
+{
+  "name": "sdarot-dl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chance": "^1.0.11",
+    "minimist": "^1.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
